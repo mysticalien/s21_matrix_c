@@ -56,6 +56,10 @@ This project was created as a task for school 21.
     ```bash
     make gcov_report
     ```
+
+### Automatic Tests
+
+<img src="img/verter.png" alt="image" width="400" height="500">
    
 ## Contributions
 Contributions are welcome! Whether you're fixing a bug, adding a new feature, or improving documentation, your contributions help make this library better for everyone. Please follow the guidelines in the `CONTRIBUTING.md` file when submitting pull requests.
